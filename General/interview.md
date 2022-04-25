@@ -255,13 +255,13 @@
 ### - Explaining Object Oriented Programming?
 
 ---
-    Biliyorum.
+    
 ---
 
 ### - Explaning Object Oriented Programming's Basic Properties?
 
 ---
-    Biliyorum.
+    
 ---
 
 ### - What Is The SOLID Prinsibles?
@@ -289,11 +289,11 @@
 ### - What Is The Clean Code?
 
 ---
-    Biliyorum.
+    
 ---
 
 ### - What Is The Agile Methodology ?
 
 ---
-    Biliyorum.
+    
 ---
